@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "uploadfotos-2451": {
+      "hosting": {
+        "fotosFirebase": [
+          "uploadfotos-2451"
+        ]
+      }
+    }
+  }
+}
